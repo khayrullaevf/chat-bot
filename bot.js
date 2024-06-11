@@ -18,7 +18,7 @@ function sendMessage(text) {
 }
 
 // Example usage
-sendMessage("nima gap?");
+sendMessage("");
 
 // For retrieving chat ID, uncomment the following code:
 // bot.on('message', (msg) => {
